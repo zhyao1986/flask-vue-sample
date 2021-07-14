@@ -1,1 +1,4 @@
 .vscode/
+*.pyc
+backend/migrations/
+backend/venv/
